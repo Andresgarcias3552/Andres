@@ -1,0 +1,17 @@
+
+.caja{
+    
+    background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%) no-repeat;
+    width: 800px;
+    height: 200px;
+border-radius: 1000px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin: 300px;
+}
+#input{
+    background-color: #00C9FF;
+    border-radius: 5px;
+    color: rgb(246, 252, 246);
+
+}
